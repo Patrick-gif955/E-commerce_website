@@ -36,4 +36,4 @@ bracelet-website/
 └── images/
 
 You can view the live version of this project here:  
-[E-commerce website ]( https://patrick-gif955.github.io/bracelet-website/)
+[E-commerce website ]( https://patrick-gif955.github.io/E-commerce_website/)
